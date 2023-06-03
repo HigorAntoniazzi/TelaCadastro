@@ -4,14 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a13c26-39b8-4fdf-846b-c9b1d13c0f5a" name="Changes" comment="" />
+    <list default="true" id="20a13c26-39b8-4fdf-846b-c9b1d13c0f5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/NovoPaciente.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/NovoPaciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/TelaLogin.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/TelaLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/TelaNovoCadastro.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tela/cadastro/principal/TelaNovoCadastro.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,7 +47,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2QeIumbxvzJVUdx7DdYY3Yiqw1p" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,10 +58,37 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "177",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/JAVA/TelaCadastro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tela.cadastro.principal.Run" />
+      <module name="TelaCadastro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tela.cadastro.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +97,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685707847150</updated>
+      <workItem from="1685707848431" duration="17322000" />
+      <workItem from="1685738688175" duration="601000" />
+      <workItem from="1685743640942" duration="74000" />
+      <workItem from="1685743738823" duration="148000" />
+      <workItem from="1685750622980" duration="1161000" />
+      <workItem from="1685755353408" duration="6000" />
+      <workItem from="1685755814703" duration="147000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
